@@ -1,0 +1,16 @@
+{
+	"name":"CSSInnerImage",
+	"main":"./index.js",
+	"version":"0.0.1",
+	"keywords":["css file image parser","css file replce","css image"],
+	"engines": {
+        "node" : ">=0.8.0"
+    },
+    "author": "mickey <xuebi1109@gmail.com>",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/colorhook/att-yunos-suite/blob/master/LICENSE"
+        }
+    ]
+}
