@@ -4,8 +4,7 @@ var replace = require('./lib/replace').replace
 var path = require('path')
 
 var filePath = process.argv[2]
-//var filePath = path.resolve('/Users/mickey/work/node-webkit/TMSer/CSSImageParser-test/css.css');
-//console.log('filePath:',filePath);
+
 
 module.exports.parse =parse = function(filePath,encoding){
   var files = [];
